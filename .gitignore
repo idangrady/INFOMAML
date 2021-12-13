@@ -1,3 +1,4 @@
 # Exclude virtual environment - Oscar
 .aml_ass
 Practice/Idan/Untitled Folder/Q_Learning.ipynb
+Programming_Assignments/Assignment_2/outputs.pkl
