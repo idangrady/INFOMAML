@@ -1,7 +1,0 @@
-SARSA: 
-On-policy
-Learns less optimal but safe path
-
-Q-learning:
-Off-policy
-Learns optimal but less safe path
